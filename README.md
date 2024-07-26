@@ -1,6 +1,6 @@
 # Weather Forecasting with LSTM
 
-This project involves comprehensive data processing, analysis, visualization, and predictive modeling for weather forecasting using Long Short-Term Memory (LSTM) neural networks. The project is structured to ensure data integrity and effective model training through meticulous data cleaning and preparation steps, followed by exploratory data analysis (EDA) and model evaluation.
+This project involves comprehensive data processing, analysis, visualization, statistical analysis on already trained models, and predictive modeling for weather forecasting using Long Short-Term Memory (LSTM) neural networks. The project is structured to ensure data integrity and effective model training through meticulous data cleaning and preparation steps, followed by exploratory data analysis (EDA) and model evaluation.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -11,10 +11,7 @@ This project involves comprehensive data processing, analysis, visualization, an
   - [Statistical Analysis](#statistical-analysis)
   - [Model Training](#model-training)
 - [Tools and Technologies](#tools-and-technologies)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 This project focuses on leveraging LSTM neural networks for accurate weather forecasting. The workflow includes data analysis, data cleaning, time series visualization, statistical analysis, and model training.
